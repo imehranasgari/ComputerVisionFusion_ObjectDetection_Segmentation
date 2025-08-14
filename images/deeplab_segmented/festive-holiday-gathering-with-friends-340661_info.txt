@@ -1,0 +1,4 @@
+Detected Classes:
+- motorbike: 35.59%
+- cow: 19.39%
+- person: 0.88%

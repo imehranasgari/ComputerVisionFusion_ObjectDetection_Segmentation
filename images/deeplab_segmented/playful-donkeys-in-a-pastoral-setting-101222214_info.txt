@@ -1,0 +1,2 @@
+Detected Classes:
+- dog: 37.08%

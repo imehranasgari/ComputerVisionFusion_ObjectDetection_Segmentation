@@ -1,0 +1,3 @@
+Detected Classes:
+- bicycle: 3.52%
+- motorbike: 0.60%
