@@ -1,7 +1,3 @@
-I’ve polished and redesigned your README to make it cleaner, more visually appealing, and easier to follow while keeping all the technical details intact. I’ve improved structure, formatting, and wording to better showcase it as a portfolio project.
-
----
-
 # **Multi-Method Image Segmentation & Object Detection**
 
 A practical, hands-on exploration of **four state-of-the-art deep learning models** for computer vision — implemented, compared, and demonstrated on diverse real-world images.
@@ -148,14 +144,16 @@ Outputs are saved in:
 [<img src="images/deeplab_segmented/playful-donkeys-in-a-pastoral-setting-101222214_overlay.png" width="260">](images/deeplab_segmented/playful-donkeys-in-a-pastoral-setting-101222214_overlay.png)
 
 ### **GroundingDINO + SAM**
-[<img src=images/deeplab_segmented/high-speed-racing-spectacle-6136403_overlay.png width="260">](images/groundingdino_sam/high-speed-racing-spectacle-6136403_overlay-1.png)
+[<img src="images\groundingdino_sam\high-speed-racing-spectacle-6136403_overlay.png" width="260">](images\groundingdino_sam\high-speed-racing-spectacle-6136403_overlay.png)
 [<img src="images/groundingdino_sam/john-matychuk-yvfp5YHWGsc-unsplash_overlay.png" width="260">](images/groundingdino_sam/john-matychuk-yvfp5YHWGsc-unsplash_overlay.png)
 [<img src="images/groundingdino_sam/rafael-de-nadai-CelTm7ss3Ho-unsplash_overlay.png" width="260">](images/groundingdino_sam/rafael-de-nadai-CelTm7ss3Ho-unsplash_overlay.png)
 [<img src="images\groundingdino_sam\regina-victorica-FH8hDSkq8J4-unsplash_overlay.png" width="260">](images\groundingdino_sam\regina-victorica-FH8hDSkq8J4-unsplash_overlay.png)
 [<img src="images/groundingdino_sam/stunning-winter-ascent-in-the-mountains-4742054_overlay.png" width="260">](images/groundingdino_sam/stunning-winter-ascent-in-the-mountains-4742054_overlay.png)
 [<img src="images\groundingdino_sam\festive-holiday-gathering-with-friends-340661_overlay.png" width="260">](images\groundingdino_sam\festive-holiday-gathering-with-friends-340661_overlay.png)
 
-
+### e.g Detection Results (festive-holiday-gathering-with-friends)
+- [CSV File](images/groundingdino_sam/festive-holiday-gathering-with-friends-340661_dets.csv)
+- [TXT File](images/groundingdino_sam/festive-holiday-gathering-with-friends-340661_dets.txt)
 ---
 
 ## 🧠 **Key Learnings & Reflections**
@@ -180,5 +178,3 @@ Outputs are saved in:
 Licensed under the **MIT License** — see `LICENSE` for details.
 
 ---
-
-If you’d like, I can also **add visual architecture diagrams** for each model and a **comparison table** that summarizes their speed, accuracy, and capabilities — which will make this README even more impressive for portfolio review. Would you like me to do that next?
