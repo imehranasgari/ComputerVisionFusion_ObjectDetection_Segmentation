@@ -175,6 +175,6 @@ Outputs are saved in:
 
 ## 📄 **License**
 
-Licensed under the **MIT License** — see `LICENSE` for details.
+Licensed under the **Apache 2.0 License** — see `LICENSE` for details.
 
 ---
